@@ -1,0 +1,4 @@
+.dropdown-menu.show { 
+    right: 0px !important;
+    left: auto !important;
+}
